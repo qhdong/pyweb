@@ -8,3 +8,5 @@ pip-delete-this-directory.txt
 
 # virtualenv
 venv/
+
+.idea
